@@ -4,7 +4,7 @@ a mgo session pool
 still need more work...
 
 ```
-go get gopkg.in/mgo.v2
+go get github.com/CardInfoLink/mgo
 go get github.com/JodeZer/mgop
 ```
 
