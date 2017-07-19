@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/JodeZer/mgop"
-	"gopkg.in/mgo.v2/bson"
+	"github.com/CardInfoLink/mgo/bson"
 	"fmt"
 	"sync"
 )

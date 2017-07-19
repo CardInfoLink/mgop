@@ -1,10 +1,10 @@
 package mgop
 
 import (
-	"gopkg.in/mgo.v2"
+	"github.com/CardInfoLink/mgo"
 	"sync"
 	"time"
-	"gopkg.in/mgo.v2/bson"
+	"github.com/CardInfoLink/mgo/bson"
 )
 
 type SessionPool interface {

@@ -1,7 +1,7 @@
 package mgop
 
 import (
-	"gopkg.in/mgo.v2"
+	"github.com/CardInfoLink/mgo"
 	"sync/atomic"
 )
 
